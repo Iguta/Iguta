@@ -3,7 +3,7 @@
 I'm David Iguta from Nairobi, Kenya. Graduate Engineer and a Full Stack Web Developer. Data Science, AI and ML enthusiast. 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iguta&count_private=true&hide=issues,contribs&show_icons=true&theme=dracula)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iguta&count_private=true&hide=issues,contribs&show_icons=true&theme=tokyonight)]
 
 <!--
 **Iguta/Iguta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
