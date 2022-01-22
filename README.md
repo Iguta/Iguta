@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm David Iguta from Nairobi, Kenya. Graduate Engineer and a Full Stack Web Developer. Data Science, AI and ML enthusiast. 
+You can check my linkedin profile https://www.linkedin.com/in/david-iguta-183382127/
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iguta&count_private=true&hide=issues,contribs&show_icons=true&theme=tokyonight)]
