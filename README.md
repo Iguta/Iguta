@@ -21,7 +21,6 @@ Skills: NODE JS/ REACT / JS / HTML / CSS/HARDWARE PROGRAMMING/PYTHON/CPP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iguta)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iguta&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Iguta)  
 
