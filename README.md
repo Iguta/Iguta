@@ -1,18 +1,12 @@
 ### Hi there 👋
 
+![Electrical Engineer Graduate and a Web Developer](https://github.com/Iguta/Iguta/blob/main/portfolio_banner.png)
+
 I'm David Iguta from Nairobi, Kenya. Graduate Engineer and a Full Stack Web Developer. Data Science, AI and ML enthusiast. 
 You can check my linkedin profile https://www.linkedin.com/in/david-iguta-183382127/
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iguta&count_private=true&hide=issues,contribs&show_icons=true&theme=tokyonight)]
-
-
-
-### Hi there 👋, my name is David Iguta
-#### Electrical Engineer Graduate and a Web Developer
-![Electrical Engineer Graduate and a Web Developer](https://github.com/Iguta/Iguta/blob/main/portfolio_banner.png)
-
-I am passionate about web and tech in general. Data Science, AI, and ML enthusiast. 
 
 Skills: NODE JS/ REACT / JS / HTML / CSS/HARDWARE PROGRAMMING/PYTHON/CPP
 
