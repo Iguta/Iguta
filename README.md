@@ -8,7 +8,7 @@ You can check my linkedin profile https://www.linkedin.com/in/david-iguta-183382
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iguta&count_private=true&hide=issues,contribs&show_icons=true&theme=tokyonight)]
 
-Skills: NODE JS/ REACT / JS / HTML / CSS/HARDWARE PROGRAMMING/PYTHON/CPP
+Skills: NODE JS/ REACT / JS / HTML / CSS/HARDWARE PROGRAMMING /PYTHON/CPP
 
 - 🔭 I’m currently working on e-commerce site  
 - 🌱 I’m currently learning React JS 
