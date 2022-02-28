@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T09:04:47.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="cxEHYLDnKwma4KQq1gKQ" version="16.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-28T09:08:45.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="3nuYOXWFzWLwI1k8bZVQ" version="16.6.4" type="github" pages="3">
   <diagram id="4EHCbdkXX50UdCNdXahG" name="Customer -&gt; Lipa Rent -&gt; Pay">
     <mxGraphModel dx="1425" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yGgJResLvAyyiGOkucJd-67" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="280" y="830" width="210" height="80" as="geometry" />
+          <mxGeometry x="273.01" y="850" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yGgJResLvAyyiGOkucJd-65" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#67ad46;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;labelBorderColor=none;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="yGgJResLvAyyiGOkucJd-67">
           <mxGeometry x="5" width="200" height="80" as="geometry" />
@@ -70,7 +70,7 @@
             <mxPoint y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yGgJResLvAyyiGOkucJd-3" value="" style="html=1;verticalLabelPosition=bottom;align=right;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#0000FF;fillColor=#67ad46;" vertex="1" parent="h1rNv5MFhiANgqS0P9eX-6">
+        <mxCell id="yGgJResLvAyyiGOkucJd-3" value="" style="html=1;verticalLabelPosition=bottom;align=right;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#0000FF;fillColor=#FFFFFF;" vertex="1" parent="h1rNv5MFhiANgqS0P9eX-6">
           <mxGeometry x="10" y="7.857142857142857" width="30" height="13.200000000000001" as="geometry" />
         </mxCell>
         <mxCell id="sYcF7LEGgxPU7lEt79-h-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.android.navigation_bar_2;fillColor=#1A1A1A;strokeColor=#999999;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=20;fontColor=#666;" vertex="1" parent="sYcF7LEGgxPU7lEt79-h-20">
@@ -100,7 +100,7 @@
             <mxPoint y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yGgJResLvAyyiGOkucJd-6" value="" style="verticalLabelPosition=bottom;align=right;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#0000FF;fillColor=#67ad46;" vertex="1" parent="m-ssa77MdW9QREAB-whR-1">
+        <mxCell id="yGgJResLvAyyiGOkucJd-6" value="" style="verticalLabelPosition=bottom;align=right;labelBackgroundColor=#FFFFFF;verticalAlign=middle;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="m-ssa77MdW9QREAB-whR-1">
           <mxGeometry x="5" y="7.857142857142857" width="30" height="13.200000000000001" as="geometry" />
         </mxCell>
         <mxCell id="yGgJResLvAyyiGOkucJd-8" value="Loans and Savings" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#ffffff;fontStyle=1;fillColor=#000000;strokeColor=#008cff;resizeWidth=1;" vertex="1" parent="m-ssa77MdW9QREAB-whR-1">
@@ -144,7 +144,7 @@
             <mxPoint y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yGgJResLvAyyiGOkucJd-17" value="" style="verticalLabelPosition=bottom;align=right;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#0000FF;fillColor=#67ad46;" vertex="1" parent="yGgJResLvAyyiGOkucJd-12">
+        <mxCell id="yGgJResLvAyyiGOkucJd-17" value="" style="verticalLabelPosition=bottom;align=right;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#0000FF;fillColor=#FFFFFF;" vertex="1" parent="yGgJResLvAyyiGOkucJd-12">
           <mxGeometry x="5" y="7.857142857142857" width="30" height="13.200000000000001" as="geometry" />
         </mxCell>
         <mxCell id="yGgJResLvAyyiGOkucJd-19" value="Lipa Rent" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;fillColor=#67ad46;strokeColor=#000000;resizeWidth=1;labelBackgroundColor=none;" vertex="1" parent="yGgJResLvAyyiGOkucJd-12">
@@ -169,7 +169,7 @@
             <mxPoint y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yGgJResLvAyyiGOkucJd-34" value="" style="html=1;verticalLabelPosition=bottom;align=right;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#0000FF;fillColor=#67ad46;" vertex="1" parent="yGgJResLvAyyiGOkucJd-29">
+        <mxCell id="yGgJResLvAyyiGOkucJd-34" value="" style="html=1;verticalLabelPosition=bottom;align=right;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#0000FF;fillColor=#FFFFFF;" vertex="1" parent="yGgJResLvAyyiGOkucJd-29">
           <mxGeometry x="10" y="7.857142857142857" width="30" height="13.200000000000001" as="geometry" />
         </mxCell>
         <mxCell id="yGgJResLvAyyiGOkucJd-35" value="Check Status" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#000000;fontStyle=1;fillColor=#fff;strokeColor=#000000;resizeWidth=1;" vertex="1" parent="yGgJResLvAyyiGOkucJd-29">
@@ -206,7 +206,7 @@
             <mxPoint y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yGgJResLvAyyiGOkucJd-39" value="" style="html=1;verticalLabelPosition=bottom;align=right;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#0000FF;fillColor=#67ad46;" vertex="1" parent="yGgJResLvAyyiGOkucJd-36">
+        <mxCell id="yGgJResLvAyyiGOkucJd-39" value="" style="html=1;verticalLabelPosition=bottom;align=right;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#0000FF;fillColor=#FFFFFF;" vertex="1" parent="yGgJResLvAyyiGOkucJd-36">
           <mxGeometry x="10" y="7.857142857142857" width="30" height="13.200000000000001" as="geometry" />
         </mxCell>
         <mxCell id="yGgJResLvAyyiGOkucJd-40" value="House A" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#000000;fontStyle=1;fillColor=#fff;strokeColor=#000000;resizeWidth=1;" vertex="1" parent="yGgJResLvAyyiGOkucJd-36">
@@ -243,7 +243,7 @@
             <mxPoint y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yGgJResLvAyyiGOkucJd-57" value="" style="html=1;verticalLabelPosition=bottom;align=right;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#0000FF;fillColor=#67ad46;" vertex="1" parent="yGgJResLvAyyiGOkucJd-54">
+        <mxCell id="yGgJResLvAyyiGOkucJd-57" value="" style="html=1;verticalLabelPosition=bottom;align=right;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#0000FF;fillColor=#FFFFFF;" vertex="1" parent="yGgJResLvAyyiGOkucJd-54">
           <mxGeometry x="10" y="7.857142857142857" width="30" height="13.200000000000001" as="geometry" />
         </mxCell>
         <mxCell id="yGgJResLvAyyiGOkucJd-64" value="Ok" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#67ad46;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="yGgJResLvAyyiGOkucJd-54">
@@ -253,7 +253,7 @@
           <mxGeometry y="220" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sYcF7LEGgxPU7lEt79-h-26" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="640" y="780" width="200" height="250" as="geometry" />
+          <mxGeometry x="620" y="780" width="200" height="250" as="geometry" />
         </mxCell>
         <mxCell id="sYcF7LEGgxPU7lEt79-h-1" value="&lt;div&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;X X X X&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;fontSize=13;" vertex="1" parent="sYcF7LEGgxPU7lEt79-h-26">
           <mxGeometry width="200" height="220" as="geometry" />
@@ -268,7 +268,7 @@
             <mxPoint y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYcF7LEGgxPU7lEt79-h-4" value="" style="html=1;verticalLabelPosition=bottom;align=right;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#0000FF;fillColor=#67ad46;" vertex="1" parent="sYcF7LEGgxPU7lEt79-h-1">
+        <mxCell id="sYcF7LEGgxPU7lEt79-h-4" value="" style="html=1;verticalLabelPosition=bottom;align=right;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.backward;fontColor=#0000FF;fillColor=#FFFFFF;" vertex="1" parent="sYcF7LEGgxPU7lEt79-h-1">
           <mxGeometry x="10" y="7.857142857142857" width="30" height="13.200000000000001" as="geometry" />
         </mxCell>
         <mxCell id="sYcF7LEGgxPU7lEt79-h-5" value="Ok" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#67ad46;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="sYcF7LEGgxPU7lEt79-h-1">
@@ -276,11 +276,6 @@
         </mxCell>
         <mxCell id="sYcF7LEGgxPU7lEt79-h-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.android.navigation_bar_2;fillColor=#1A1A1A;strokeColor=#999999;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=20;fontColor=#666;" vertex="1" parent="sYcF7LEGgxPU7lEt79-h-26">
           <mxGeometry y="220" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sYcF7LEGgxPU7lEt79-h-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#666;" edge="1" parent="1" target="sYcF7LEGgxPU7lEt79-h-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="515" y="1030" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
