@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T12:43:52.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="hV9MOH4zJH73npDV-OuY" version="16.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-28T12:45:24.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="EXClXqqYMoBW0d3MydND" version="16.6.4" type="github" pages="5">
   <diagram id="4EHCbdkXX50UdCNdXahG" name="Customer -&gt; Lipa Rent -&gt; Pay">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1144,7 +1144,7 @@
         <mxCell id="ClFoGcQdk5MFDg0kWA2F-0" />
         <mxCell id="ClFoGcQdk5MFDg0kWA2F-1" parent="ClFoGcQdk5MFDg0kWA2F-0" />
         <mxCell id="ClFoGcQdk5MFDg0kWA2F-12" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="ClFoGcQdk5MFDg0kWA2F-1">
-          <mxGeometry x="60" y="50" width="200" height="390" as="geometry" />
+          <mxGeometry x="20" y="50" width="200" height="390" as="geometry" />
         </mxCell>
         <mxCell id="ClFoGcQdk5MFDg0kWA2F-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fillColor=#FFFFFF;" vertex="1" parent="ClFoGcQdk5MFDg0kWA2F-12">
           <mxGeometry width="200" height="390" as="geometry" />
@@ -1168,7 +1168,7 @@
           <mxGeometry width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ClFoGcQdk5MFDg0kWA2F-13" value="" style="group" vertex="1" connectable="0" parent="ClFoGcQdk5MFDg0kWA2F-1">
-          <mxGeometry x="330" y="50" width="215.72" height="390" as="geometry" />
+          <mxGeometry x="280" y="50" width="215.72" height="390" as="geometry" />
         </mxCell>
         <mxCell id="ClFoGcQdk5MFDg0kWA2F-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fillColor=#FFFFFF;" vertex="1" parent="ClFoGcQdk5MFDg0kWA2F-13">
           <mxGeometry width="200" height="390" as="geometry" />
@@ -1189,7 +1189,7 @@
           <mxGeometry x="85" y="190" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ClFoGcQdk5MFDg0kWA2F-24" value="" style="group" vertex="1" connectable="0" parent="ClFoGcQdk5MFDg0kWA2F-1">
-          <mxGeometry x="610" y="50" width="295" height="390" as="geometry" />
+          <mxGeometry x="540" y="50" width="295" height="390" as="geometry" />
         </mxCell>
         <mxCell id="ClFoGcQdk5MFDg0kWA2F-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fillColor=#FFFFFF;" vertex="1" parent="ClFoGcQdk5MFDg0kWA2F-24">
           <mxGeometry width="200" height="390" as="geometry" />
