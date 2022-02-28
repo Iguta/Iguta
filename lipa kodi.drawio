@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T07:39:37.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="uUMvzVx7MfzGH7KYb-77" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-28T07:40:59.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="G-mTBiLQ-lJ5JPu6J1J0" version="16.6.4" type="github" pages="2">
   <diagram id="4EHCbdkXX50UdCNdXahG" name="Page-1">
     <mxGraphModel dx="1425" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
         <mxCell id="yGgJResLvAyyiGOkucJd-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home;fillColor=#67ad46;fontColor=#67ad46;" vertex="1" parent="1">
           <mxGeometry x="365" y="80" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yGgJResLvAyyiGOkucJd-5" value="Lipa Kodi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="yGgJResLvAyyiGOkucJd-5" value="Lipa Rent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="290" y="100" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yGgJResLvAyyiGOkucJd-12" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#000000;fontColor=default;labelBorderColor=default;" vertex="1" parent="1">
