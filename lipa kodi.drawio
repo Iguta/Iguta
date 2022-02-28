@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T09:27:17.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="y6woZZ-NdJtC0aFJ88Gt" version="16.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-28T09:30:45.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Jq535wiOwGXZD7bn8vra" version="16.6.4" type="github" pages="3">
   <diagram id="4EHCbdkXX50UdCNdXahG" name="Customer -&gt; Lipa Rent -&gt; Pay">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -796,9 +796,9 @@
         <mxCell id="W3FCo_J94uP1eG_GJ4Ov-63" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.android.navigation_bar_2;fillColor=#1A1A1A;strokeColor=#999999;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=20;fontColor=#666;" vertex="1" parent="W3FCo_J94uP1eG_GJ4Ov-55">
           <mxGeometry y="220" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W3FCo_J94uP1eG_GJ4Ov-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#666;" edge="1" parent="oLSU08PWE84ER5hRWrua-1" source="W3FCo_J94uP1eG_GJ4Ov-56">
+        <mxCell id="W3FCo_J94uP1eG_GJ4Ov-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#666;entryX=0;entryY=0.545;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oLSU08PWE84ER5hRWrua-1" source="W3FCo_J94uP1eG_GJ4Ov-56" target="W3FCo_J94uP1eG_GJ4Ov-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="570" as="targetPoint" />
+            <mxPoint x="610" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W3FCo_J94uP1eG_GJ4Ov-66" value="STK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=#666;fontStyle=1" vertex="1" parent="oLSU08PWE84ER5hRWrua-1">
