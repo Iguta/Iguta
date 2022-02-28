@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T12:45:24.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="EXClXqqYMoBW0d3MydND" version="16.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-28T12:48:10.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="jpCwY_1E9_5sFVEh-JcR" version="16.6.4" type="github" pages="5">
   <diagram id="4EHCbdkXX50UdCNdXahG" name="Customer -&gt; Lipa Rent -&gt; Pay">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1207,7 +1207,19 @@
           <mxGeometry x="8.93" y="90" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ClFoGcQdk5MFDg0kWA2F-32" value="___________________" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="ClFoGcQdk5MFDg0kWA2F-24">
-          <mxGeometry x="15.719999999999999" y="210" width="170" height="20" as="geometry" />
+          <mxGeometry x="18.93" y="190" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ClFoGcQdk5MFDg0kWA2F-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fontSize=15;fillColor=#ffffff;" vertex="1" parent="ClFoGcQdk5MFDg0kWA2F-1">
+          <mxGeometry x="20" y="480" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="ClFoGcQdk5MFDg0kWA2F-35" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.statusBar;align=center;fillColor=#000000;strokeColor=#ffffff;fontColor=#ffffff;fontSize=10;sketch=0;" vertex="1" parent="ClFoGcQdk5MFDg0kWA2F-1">
+          <mxGeometry x="28.209999999999994" y="510" width="183.57" height="15.825" as="geometry" />
+        </mxCell>
+        <mxCell id="ClFoGcQdk5MFDg0kWA2F-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.keyboard;sketch=0;fillColor=#FFFFFF;" vertex="1" parent="ClFoGcQdk5MFDg0kWA2F-1">
+          <mxGeometry x="28.209999999999994" y="740" width="185" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ClFoGcQdk5MFDg0kWA2F-37" value="&lt;div style=&quot;font-size: 25px ; font-weight: 700&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Register Tenant&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px ; font-weight: 700&quot;&gt;&lt;span style=&quot;font-weight: normal ; font-size: 15px&quot;&gt;Enter National ID no.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="ClFoGcQdk5MFDg0kWA2F-1">
+          <mxGeometry x="43.21" y="590" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
