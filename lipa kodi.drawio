@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T09:40:45.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="zTYgxdsalbKnsm_j8c5o" version="16.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-28T09:45:49.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="EWyQDqJ6jm1QF3dV8m-3" version="16.6.4" type="github" pages="4">
   <diagram id="4EHCbdkXX50UdCNdXahG" name="Customer -&gt; Lipa Rent -&gt; Pay">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -830,13 +830,13 @@
           <mxGeometry x="366" y="10" width="117.01" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZFBI72D-RTxhb4yV6cVm-3" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="ItPPq0VkUEXidD9aokiH-1">
-          <mxGeometry x="399.72" y="840" width="230.56" height="100" as="geometry" />
+          <mxGeometry x="420" y="840" width="230.56" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZFBI72D-RTxhb4yV6cVm-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#67ad46;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;labelBorderColor=none;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="ZFBI72D-RTxhb4yV6cVm-3">
           <mxGeometry x="3.8889638554216868" width="206.1150843373494" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZFBI72D-RTxhb4yV6cVm-5" value="Your Monthly Rent for &lt;br&gt;&lt;b&gt;House B&lt;/b&gt;&lt;br&gt;will be auto-settled date &lt;br&gt;selected every month" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="ZFBI72D-RTxhb4yV6cVm-3">
-          <mxGeometry x="26.94588221686747" y="11.11111111111111" width="160" height="70" as="geometry" />
+        <mxCell id="ZFBI72D-RTxhb4yV6cVm-5" value="Your rent for house B has been&lt;br&gt;partially paid; &lt;b&gt;Ksh. 2,500&lt;/b&gt;&lt;br&gt;Remaining balance: &lt;b&gt;Ksh. 7,500&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="ZFBI72D-RTxhb4yV6cVm-3">
+          <mxGeometry x="-3.0541177831325292" y="16.11111111111111" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZFBI72D-RTxhb4yV6cVm-6" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="ItPPq0VkUEXidD9aokiH-1">
           <mxGeometry x="370" y="80" width="110" height="30" as="geometry" />
@@ -978,12 +978,12 @@
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZFBI72D-RTxhb4yV6cVm-44" value="Auto Pay" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#000000;fontStyle=1;fillColor=#67ad46;strokeColor=#000000;resizeWidth=1;" vertex="1" parent="ZFBI72D-RTxhb4yV6cVm-39">
+        <mxCell id="ZFBI72D-RTxhb4yV6cVm-44" value="Auto Pay" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#000000;fontStyle=1;fillColor=#FFFFFF;strokeColor=#000000;resizeWidth=1;" vertex="1" parent="ZFBI72D-RTxhb4yV6cVm-39">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZFBI72D-RTxhb4yV6cVm-45" value="Lipa Mdogo Mdogo" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#000000;fontStyle=1;fillColor=#fff;strokeColor=#000000;resizeWidth=1;" vertex="1" parent="ZFBI72D-RTxhb4yV6cVm-39">
+        <mxCell id="ZFBI72D-RTxhb4yV6cVm-45" value="Lipa Mdogo Mdogo" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#000000;fontStyle=1;fillColor=#67ad46;strokeColor=#000000;resizeWidth=1;" vertex="1" parent="ZFBI72D-RTxhb4yV6cVm-39">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
@@ -994,10 +994,10 @@
         <mxCell id="ZFBI72D-RTxhb4yV6cVm-47" value="" style="group" vertex="1" connectable="0" parent="ItPPq0VkUEXidD9aokiH-1">
           <mxGeometry x="620" y="450" width="200" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="ZFBI72D-RTxhb4yV6cVm-48" value="&lt;div&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;&lt;u&gt;D&lt;/u&gt;&amp;nbsp;&lt;u&gt;D&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;fontSize=13;" vertex="1" parent="ZFBI72D-RTxhb4yV6cVm-47">
+        <mxCell id="ZFBI72D-RTxhb4yV6cVm-48" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;u&gt;Ksh. 2,500&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;fontSize=13;" vertex="1" parent="ZFBI72D-RTxhb4yV6cVm-47">
           <mxGeometry width="200" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="ZFBI72D-RTxhb4yV6cVm-49" value="Enter Date to Auto-Pay" style="strokeWidth=1;shadow=0;dashed=0;align=right;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=15;fontColor=#666;fontStyle=1;fillColor=#FFFFFF;strokeColor=#000000;resizeWidth=1;" vertex="1" parent="ZFBI72D-RTxhb4yV6cVm-48">
+        <mxCell id="ZFBI72D-RTxhb4yV6cVm-49" value="Enter Amount" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=15;fontColor=#666;fontStyle=1;fillColor=#FFFFFF;strokeColor=#000000;resizeWidth=1;" vertex="1" parent="ZFBI72D-RTxhb4yV6cVm-48">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
