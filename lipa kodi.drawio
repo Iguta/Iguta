@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T12:45:25.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Ht0qZzcKWroSvb-weFCq" version="16.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-01T13:14:22.994Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ORJ4EksrOUbKDZTTQkUz" version="16.6.4" type="github" pages="7">
   <diagram id="4EHCbdkXX50UdCNdXahG" name="Customer -&gt; Lipa Rent -&gt; Pay">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,9 +17,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yGgJResLvAyyiGOkucJd-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;" parent="1" source="yGgJResLvAyyiGOkucJd-36" target="yGgJResLvAyyiGOkucJd-54" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yGgJResLvAyyiGOkucJd-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;" parent="1" source="yGgJResLvAyyiGOkucJd-54" target="yGgJResLvAyyiGOkucJd-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sYcF7LEGgxPU7lEt79-h-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#666;" parent="1" source="yGgJResLvAyyiGOkucJd-54" target="sYcF7LEGgxPU7lEt79-h-1" edge="1">
@@ -277,11 +274,20 @@
         <mxCell id="sYcF7LEGgxPU7lEt79-h-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.android.navigation_bar_2;fillColor=#1A1A1A;strokeColor=#999999;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=20;fontColor=#666;" parent="sYcF7LEGgxPU7lEt79-h-26" vertex="1">
           <mxGeometry y="220" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Oiu54AHe_7hbv-7RDut9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sYcF7LEGgxPU7lEt79-h-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="410" />
+              <mxPoint x="170" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="vpS-ICQm3hWVWv9Sm2C9" name="Customer-Auto Pay">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="oLSU08PWE84ER5hRWrua-0" />
         <mxCell id="oLSU08PWE84ER5hRWrua-1" parent="oLSU08PWE84ER5hRWrua-0" />
@@ -573,7 +579,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PwLIYMMe3IhMhgs-gWxU" name="Customer - Lipa Mdogo Mdogo">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ItPPq0VkUEXidD9aokiH-0" />
         <mxCell id="ItPPq0VkUEXidD9aokiH-1" parent="ItPPq0VkUEXidD9aokiH-0" />
@@ -1136,7 +1142,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fOx7rS-yxR51Rff2bNQT" name="Landlord-Registering Tenants">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ClFoGcQdk5MFDg0kWA2F-0" />
         <mxCell id="ClFoGcQdk5MFDg0kWA2F-1" parent="ClFoGcQdk5MFDg0kWA2F-0" />
