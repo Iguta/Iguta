@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T05:42:00.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="3c04IG_toX7nMtEOQgtl" version="16.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-01T06:14:57.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="RtUMNgLQ_Y-kUjXdItpQ" version="16.6.4" type="github" pages="7">
   <diagram id="4EHCbdkXX50UdCNdXahG" name="Customer -&gt; Lipa Rent -&gt; Pay">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1504,6 +1504,14 @@
         <mxCell id="QGZb6kdXgUGWdoR95yJz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DRrHD7keV6PKRKhdDvXa-1" source="JRXdrBq1SOUN6cZ4SSjt-44" target="JRXdrBq1SOUN6cZ4SSjt-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mBnVBKnWeTJbnitMqAnZ" name="Landlord - Check status">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="KvZYDFYtsSnksZgL4Jeb-0" />
+        <mxCell id="KvZYDFYtsSnksZgL4Jeb-1" parent="KvZYDFYtsSnksZgL4Jeb-0" />
       </root>
     </mxGraphModel>
   </diagram>
