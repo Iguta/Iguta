@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T06:16:52.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="IAQZBZtCNJ6z-zE3XPsp" version="16.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-01T12:45:25.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Ht0qZzcKWroSvb-weFCq" version="16.6.4" type="github" pages="7">
   <diagram id="4EHCbdkXX50UdCNdXahG" name="Customer -&gt; Lipa Rent -&gt; Pay">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1623,16 +1623,15 @@
         <mxCell id="KvZYDFYtsSnksZgL4Jeb-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.keyboard;sketch=0;fillColor=#FFFFFF;" vertex="1" parent="KvZYDFYtsSnksZgL4Jeb-35">
           <mxGeometry x="8.209999999999994" y="260" width="185" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KvZYDFYtsSnksZgL4Jeb-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=0;entryY=0.462;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KvZYDFYtsSnksZgL4Jeb-1" source="KvZYDFYtsSnksZgL4Jeb-9" target="KvZYDFYtsSnksZgL4Jeb-11">
+        <mxCell id="KvZYDFYtsSnksZgL4Jeb-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=-0.015;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KvZYDFYtsSnksZgL4Jeb-1" source="KvZYDFYtsSnksZgL4Jeb-9" target="KvZYDFYtsSnksZgL4Jeb-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KvZYDFYtsSnksZgL4Jeb-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="KvZYDFYtsSnksZgL4Jeb-1">
+        <mxCell id="KvZYDFYtsSnksZgL4Jeb-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;exitX=0.99;exitY=0.482;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="KvZYDFYtsSnksZgL4Jeb-1" source="KvZYDFYtsSnksZgL4Jeb-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="240" />
-              <mxPoint x="500" y="240" />
+              <mxPoint x="478" y="240" />
             </Array>
             <mxPoint x="568.9299999999998" y="240" as="targetPoint" />
             <mxPoint x="490" y="240" as="sourcePoint" />
@@ -1676,6 +1675,14 @@
         </mxCell>
         <mxCell id="KvZYDFYtsSnksZgL4Jeb-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KvZYDFYtsSnksZgL4Jeb-1" source="KvZYDFYtsSnksZgL4Jeb-36" target="KvZYDFYtsSnksZgL4Jeb-43">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UPKH2Q7sOYbzoovj190P-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.525;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KvZYDFYtsSnksZgL4Jeb-1" source="KvZYDFYtsSnksZgL4Jeb-18" target="KvZYDFYtsSnksZgL4Jeb-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="460" />
+              <mxPoint x="155" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
