@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Electrical Engineer Graduate and a Web Developer](https://github.com/Iguta/Iguta/blob/main/portfolio_banner.png)
+![Software Enginer and Quality Engineer](https://github.com/Iguta/Iguta/blob/main/portfolio_banner.png)
 
 I'm David Iguta from Nairobi, Kenya. Software Engineer | Quality Engineer | Data Science, AI and ML enthusiast. 
 You can check my linkedin profile https://www.linkedin.com/in/david-iguta-183382127/
